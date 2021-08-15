@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1602754287 source:d:\大三上\计算物理a\computer-physics-2020\hw1-rand\hw1_rand\main.c
+	"schrage16807.h"
+
+1602841893 source:d:\大三上\计算物理a\computer-physics-2020\hw1-rand\hw1_rand\task2.c
+	"schrage16807.h"
+
+1602841866 source:d:\大三上\计算物理a\computer-physics-2020\hw1-rand\hw1_rand\schrage16807.c
+	"schrage16807.h"
+
+1602509272 d:\大三上\计算物理a\computer-physics-2020\hw1-rand\hw1_rand\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"errno.h"
+
+1602841881 source:d:\大三上\计算物理a\computer-physics-2020\hw1-rand\hw1_rand\task1.c
+	<schrage16807.h>
+
+1602509272 d:\大三上\计算物理a\computer-physics-2020\hw1-rand\hw1_rand\\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"errno.h"
+
+1602514005 source:d:\大三上\计算物理a\computer-physics-2020\hw1-rand\hw1_rand\task3.c
+	"schrage16807.h"
+
+1602387512 source:d:\大三上\计算物理a\computer-physics-2020\hw1-rand\hw1_rand\task4.c
+

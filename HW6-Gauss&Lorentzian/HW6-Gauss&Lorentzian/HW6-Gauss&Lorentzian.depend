@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1602751258 source:d:\大三上\计算物理a\computer-physics-2020\hw6-gauss&lorentzian\hw6-gauss&lorentzian\schrage16807.c
+	"schrage16807.h"
+
+1602576473 d:\大三上\计算物理a\computer-physics-2020\hw6-gauss&lorentzian\hw6-gauss&lorentzian\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"errno.h"
+
+1602764153 source:d:\大三上\计算物理a\computer-physics-2020\hw6-gauss&lorentzian\hw6-gauss&lorentzian\main.c
+	<schrage16807.h>
+
+1602576473 d:\大三上\计算物理a\computer-physics-2020\hw6-gauss&lorentzian\hw6-gauss&lorentzian\\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"errno.h"
+

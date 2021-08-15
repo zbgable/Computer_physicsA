@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1602751258 source:d:\大三上\计算物理a\computer-physics-2020\hw7-experiment\hw7-experiment\schrage16807.c
+	"schrage16807.h"
+
+1602509272 d:\大三上\计算物理a\computer-physics-2020\hw7-experiment\hw7-experiment\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"errno.h"
+
+1602503522 source:d:\大三上\计算物理a\computer-physics-2020\hw7-experiment\hw7-experiment\main.c
+	<schrage16807.h>
+
+1602502578 d:\大三上\计算物理a\computer-physics-2020\hw7-experiment\hw7-experiment\\schrage16807.h
+	"malloc.h"
+	"time.h"
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	<errno.h>
+
+1603810527 source:d:\大三上\计算物理a\computer-physics-2020\第二周\hw7-experiment\hw7-experiment\main.c
+	"schrage16807.h"
+
+1602751258 source:d:\大三上\计算物理a\computer-physics-2020\第二周\hw7-experiment\hw7-experiment\schrage16807.c
+	"schrage16807.h"
+
+1602509272 d:\大三上\计算物理a\computer-physics-2020\第二周\hw7-experiment\hw7-experiment\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"errno.h"
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1605515534 source:d:\大三上\计算物理a\computer-physics-2020\hw11-recurrences-of-random-walk\main.c
+	"schrage16807.h"
+
+1605514554 d:\大三上\计算物理a\computer-physics-2020\hw11-recurrences-of-random-walk\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"windows.h"
+	"errno.h"
+
+1605515110 source:d:\大三上\计算物理a\computer-physics-2020\hw11-recurrences-of-random-walk\schrage16807.c
+	"schrage16807.h"
+
+1605515282 source:d:\大三上\计算物理a\computer-physics-2020\hw11-recurrences-of-random-walk\random1d.c
+	"schrage16807.h"
+
+1605515220 source:d:\大三上\计算物理a\computer-physics-2020\hw11-recurrences-of-random-walk\random2d.c
+	"schrage16807.h"
+
+1605515217 source:d:\大三上\计算物理a\computer-physics-2020\hw11-recurrences-of-random-walk\random3d.c
+	"schrage16807.h"
+

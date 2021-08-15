@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1602751258 source:d:\大三上\计算物理a\computer-physics-2020\第二周\hw8-integral-calculation\schrage16807.c
+	"schrage16807.h"
+
+1603980090 d:\大三上\计算物理a\computer-physics-2020\第二周\hw8-integral-calculation\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"errno.h"
+
+1603979780 source:d:\大三上\计算物理a\computer-physics-2020\第二周\hw8-integral-calculation\main.c
+	"schrage16807.h"
+

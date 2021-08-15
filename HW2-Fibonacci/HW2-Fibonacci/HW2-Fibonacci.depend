@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1602753161 source:d:\大三上\计算物理a\computer-physics-2020\hw2-fibonacci\hw2-fibonacci\main.c
+	"schrage16807.h"
+
+1602509272 d:\大三上\计算物理a\computer-physics-2020\hw2-fibonacci\hw2-fibonacci\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"errno.h"
+
+1602751258 source:d:\大三上\计算物理a\computer-physics-2020\hw2-fibonacci\hw2-fibonacci\schrage16807.c
+	"schrage16807.h"
+
+1602590540 source:d:\大三上\计算物理a\computer-physics-2020\hw2-fibonacci\hw2-fibonacci\lag-fib-generator.c
+	"schrage16807.h"
+
+1602903366 source:d:\大三上\计算物理a\computer-physics-2020\hw2-fibonacci\hw2-fibonacci\task-1.c
+	"schrage16807.h"
+
+1602903391 source:d:\大三上\计算物理a\computer-physics-2020\hw2-fibonacci\hw2-fibonacci\task-2.c
+	"schrage16807.h"
+

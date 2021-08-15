@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1605515110 source:d:\大三上\计算物理a\computer-physics-2020\hw15-markov-chain\markov-chain\schrage16807.c
+	"schrage16807.h"
+
+1607526787 d:\大三上\计算物理a\computer-physics-2020\hw15-markov-chain\markov-chain\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"windows.h"
+	"errno.h"
+
+1607437095 source:d:\大三上\计算物理a\computer-physics-2020\hw15-markov-chain\markov-chain\update.c
+	"schrage16807.h"
+
+1607763862 source:d:\大三上\计算物理a\computer-physics-2020\hw15-markov-chain\markov-chain\main.c
+	"schrage16807.h"
+

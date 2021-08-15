@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1605515110 source:d:\大三上\计算物理a\computer-physics-2020\hw-19-schrodinger-equation\schrage16807.c
+	"schrage16807.h"
+
+1610340430 d:\大三上\计算物理a\computer-physics-2020\hw-19-schrodinger-equation\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"windows.h"
+	"errno.h"
+
+1610348082 source:d:\大三上\计算物理a\computer-physics-2020\hw-19-schrodinger-equation\main.c
+	"schrage16807.h"
+
+1610348196 source:d:\大三上\计算物理a\computer-physics-2020\hw-19-schrodinger-equation\findeigentodata.c
+	"schrage16807.h"
+
+1610339877 source:d:\大三上\计算物理a\computer-physics-2020\hw-19-schrodinger-equation\numerovmethod.c
+	"schrage16807.h"
+

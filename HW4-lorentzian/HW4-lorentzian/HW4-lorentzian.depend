@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1602751258 source:d:\大三上\计算物理a\computer-physics-2020\hw4-lorentzian\hw4-lorentzian\schrage16807.c
+	"schrage16807.h"
+
+1602509272 d:\大三上\计算物理a\computer-physics-2020\hw4-lorentzian\hw4-lorentzian\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"errno.h"
+
+1602764389 source:d:\大三上\计算物理a\computer-physics-2020\hw4-lorentzian\hw4-lorentzian\main.c
+	<schrage16807.h>
+
+1602509272 d:\大三上\计算物理a\computer-physics-2020\hw4-lorentzian\hw4-lorentzian\\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"errno.h"
+

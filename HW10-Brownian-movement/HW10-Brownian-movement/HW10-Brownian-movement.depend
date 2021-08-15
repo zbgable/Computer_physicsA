@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1602590540 source:d:\大三上\计算物理a\computer-physics-2020\hw10-brownian-movement\hw10-brownian-movement\lag-fib-generator.c
+	"schrage16807.h"
+
+1605230838 d:\大三上\计算物理a\computer-physics-2020\hw10-brownian-movement\hw10-brownian-movement\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"errno.h"
+
+1605237875 source:d:\大三上\计算物理a\computer-physics-2020\hw10-brownian-movement\hw10-brownian-movement\main.c
+	"schrage16807.h"
+
+1602751258 source:d:\大三上\计算物理a\computer-physics-2020\hw10-brownian-movement\hw10-brownian-movement\schrage16807.c
+	"schrage16807.h"
+
+1605230915 source:d:\大三上\计算物理a\computer-physics-2020\hw10-brownian-movement\hw10-brownian-movement\rng-lorentz.c
+	"schrage16807.h"
+
+1605231837 source:d:\大三上\计算物理a\computer-physics-2020\hw10-brownian-movement\hw10-brownian-movement\rng-normal.c
+	"schrage16807.h"
+
+1605241621 source:d:\大三上\计算物理a\computer-physics-2020\hw10-brownian-movement\hw10-brownian-movement\rw-move.c
+	"schrage16807.h"
+
+1605235145 source:d:\大三上\计算物理a\computer-physics-2020\hw10-brownian-movement\hw10-brownian-movement\measure.c
+	"schrage16807.h"
+

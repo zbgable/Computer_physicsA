@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1608483234 source:d:\大三上\计算物理a\computer-physics-2020\hw18-dla\hw18-dla\randomwalk-2d.c
+
+1605515110 source:d:\大三上\计算物理a\computer-physics-2020\hw18-dla\hw18-dla\schrage16807.c
+	"schrage16807.h"
+
+1608482106 d:\大三上\计算物理a\computer-physics-2020\hw18-dla\hw18-dla\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"windows.h"
+	"errno.h"
+

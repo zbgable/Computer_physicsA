@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1607362801 source:d:\大三上\计算物理a\computer-physics-2020\hw13-metropolis-hasting-sampling\m-h-algorithm\main.c
+	"schrage16807.h"
+
+1606308462 d:\大三上\计算物理a\computer-physics-2020\hw13-metropolis-hasting-sampling\m-h-algorithm\schrage16807.h
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+	"math.h"
+	"malloc.h"
+	"time.h"
+	"windows.h"
+	"errno.h"
+
+1605515110 source:d:\大三上\计算物理a\computer-physics-2020\hw13-metropolis-hasting-sampling\m-h-algorithm\schrage16807.c
+	"schrage16807.h"
+
+1607151703 source:d:\大三上\计算物理a\computer-physics-2020\hw13-metropolis-hasting-sampling\m-h-algorithm\mh-algorithm.c
+	"schrage16807.h"
+
